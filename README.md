@@ -2,7 +2,7 @@
 
 Öncellikle uygulamanın tam şekilde çalışması için derleme yolunun içinde "Data" adlı klasör bulunması gerekir. FileExists ile kontrol yapılmakta ancak klasör oluştur kodu henüz kullanılmamıştır.
 
-Proje henüz bitmemiş sadece veri çekim işlemi başarılı bir şekilde yapılmıştır. Veriler "https://bademsoftware.com"'da bulunan hazır dosyalar üzerinden yapılmaktadır. Hazır scriptleri oluşturmak için sizde yazmış olduğum PHP scripti ile başarılı bir biçimde istediğiniz bir siteden veri çekimini gerçekleştirebilirsiniz.
+Proje henüz bitmemiş sadece veri çekim işlemi başarılı bir şekilde yapılmıştır. Veriler " https://bademsoftware.com "'da bulunan hazır dosyalar üzerinden yapılmaktadır. Hazır scriptleri oluşturmak için sizde yazmış olduğum PHP scripti ile başarılı bir biçimde istediğiniz bir siteden veri çekimini gerçekleştirebilirsiniz.
 
 Link: https://github.com/halilhanbadem/PHPEzanVakitScriptV1/blob/master/ezanvakitscript.php
 
